@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042432334264",
+    "firebase_url": "https://funcandi-community-e41a7.firebaseio.com",
+    "project_id": "funcandi-community-e41a7",
+    "storage_bucket": "funcandi-community-e41a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042432334264:android:47975392cde06bbf",
+        "android_client_info": {
+          "package_name": "com.community.rambo.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042432334264-fe1tnk5qci948du4t7jsi3rtodk39485.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.community.rambo.community",
+            "certificate_hash": "b9865cd47fe45bd3911b0bd4f48e8398403105cc"
+          }
+        },
+        {
+          "client_id": "1042432334264-9nvl35dnvau727749va3kaauk2atr9kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEPJ74Kf9WAzygHFeTbw8vBcKbLrr3ZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042432334264-9nvl35dnvau727749va3kaauk2atr9kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
